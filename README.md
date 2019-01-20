@@ -2,4 +2,4 @@
 
 (1) Assignment - Crijns, Romeijn: https://russet.uvt.nl/user/u1259198/notebooks/CrijnsRomeijn%20(3).ipynb
 
-(2) Python attachment: https://russet.uvt.nl/user/u1259198/edit/EdgarSearchED.py
+(2) Python attachment: https://github.com/StefanRomeijn/assignments/edit/master/README.md
