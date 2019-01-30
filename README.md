@@ -16,4 +16,4 @@ To run attachment:
 4) Run the first part of the script (download 10-K) by calling the following command in command prompt;
     Python EdgarSearch.py download
 5) Run the second part of the script (parse MD&A and wordcount) by calling the following in command promt;
-    Python EdgarSearch.py mdatool--keywords=future,will,next_month,next_quarter,next_year,next_fiscal,next_period,upcoming_month,coming_month,coming_quarter,coming_year,coming_fiscal, subsequent_month,subsequent_quarter,subsequent_year,subsequent_fiscal,following_month,following_quarter,following_year,following_fiscal
+    Python EdgarSearch.py mdatool --keywords=future,will,next_month,next_quarter,next_year,next_fiscal,next_period,upcoming_month,coming_month,coming_quarter,coming_year,coming_fiscal,subsequent_month,subsequent_quarter,subsequent_year,subsequent_fiscal,following_month,following_quarter,following_year,following_fiscal
