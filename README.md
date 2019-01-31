@@ -2,7 +2,7 @@
 
 (1) Assignment - Crijns, Romeijn: https://stefanromeijn.github.io/assignments/CrijnsRomeijn.html
 
-(2) Python attachment: https://github.com/StefanRomeijn/assignments/blob/master/README%20-%20Python%20attachment.py
+(2) Python attachment: https://github.com/StefanRomeijn/assignments/blob/master/EdgarSearch.py
 
 To run attachment: 
 1) Make sure Python is installed;
